@@ -1,0 +1,86 @@
+{
+  "rag": [
+    {
+      "avg_similarity": 0.782736313343048,
+      "max_similarity": 0.7921801209449768,
+      "min_similarity": 0.7755814790725708,
+      "diversity": 0.06331408023834229,
+      "coverage": 0.0,
+      "mrr": 0.45666666666666667
+    },
+    {
+      "avg_similarity": 0.8161833763122559,
+      "max_similarity": 0.8198814392089844,
+      "min_similarity": 0.8143998384475708,
+      "diversity": 0.06645190715789795,
+      "coverage": 0.0,
+      "mrr": 0.45666666666666667
+    },
+    {
+      "avg_similarity": 0.8131171464920044,
+      "max_similarity": 0.8202164173126221,
+      "min_similarity": 0.8057054281234741,
+      "diversity": 0.07152998447418213,
+      "coverage": 0.0,
+      "mrr": 0.45666666666666667
+    },
+    {
+      "avg_similarity": 0.7979542136192321,
+      "max_similarity": 0.80604088306427,
+      "min_similarity": 0.7917466163635254,
+      "diversity": 0.13469678163528442,
+      "coverage": 0.0,
+      "mrr": 0.45666666666666667
+    },
+    {
+      "avg_similarity": 0.8271792769432068,
+      "max_similarity": 0.8316012024879456,
+      "min_similarity": 0.8175866007804871,
+      "diversity": 0.09674006700515747,
+      "coverage": 0.0,
+      "mrr": 0.45666666666666667
+    }
+  ],
+  "bruteforce": [
+    {
+      "avg_similarity": 0.8999999999999998,
+      "max_similarity": 0.9,
+      "min_similarity": 0.9,
+      "diversity": 0.0,
+      "coverage": 0.0,
+      "mrr": 0.1798869828571841
+    },
+    {
+      "avg_similarity": 0.8999999999999998,
+      "max_similarity": 0.9,
+      "min_similarity": 0.9,
+      "diversity": 0.0,
+      "coverage": 0.0,
+      "mrr": 0.1798869828571841
+    },
+    {
+      "avg_similarity": 0.8999999999999998,
+      "max_similarity": 0.9,
+      "min_similarity": 0.9,
+      "diversity": 0.0,
+      "coverage": 0.0,
+      "mrr": 0.1798869828571841
+    },
+    {
+      "avg_similarity": 0.8999999999999998,
+      "max_similarity": 0.9,
+      "min_similarity": 0.9,
+      "diversity": 0.0,
+      "coverage": 0.0,
+      "mrr": 0.1798869828571841
+    },
+    {
+      "avg_similarity": 0.8999999999999998,
+      "max_similarity": 0.9,
+      "min_similarity": 0.9,
+      "diversity": 0.0,
+      "coverage": 0.0,
+      "mrr": 0.1798869828571841
+    }
+  ]
+}
